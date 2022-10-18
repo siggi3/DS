@@ -1,7 +1,7 @@
 {
-    "server_version": 100,
+    "server_version": 203,
     "vpnsafetydot_downloadUrl": "https://getsafetydot.com/",
-    "testmode": true,
+    "testmode": false,
     "renew_certs": false,
     "free_time": 1,
     "auth": "vRk8jF4dSCuSxOUybk"
